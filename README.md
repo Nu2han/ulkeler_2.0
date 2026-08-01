@@ -15,5 +15,5 @@ Bu proje; Python, OpenCV ve MediaPipe kullanarak kamera karşısında yapılan *
 
 1. Projeyi klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/ulkeler-jest-dedektoru.git](https://github.com/KULLANICI_ADIN/ulkeler-jest-dedektoru.git)
-   cd ulkeler-jest-dedektoru
+   git clone [https://github.com/nu2han/ulkeler_2.0.git](https://github.com/nu2han/ulkeler_2.0.git)
+   cd ulkeler_2.0
